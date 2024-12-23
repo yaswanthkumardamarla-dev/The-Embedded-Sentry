@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The-Embedded-Sentry
 ECE-GY 6483 Real Time Embedded Systems || Project || Fall 2024 <br />
 New York University (NYU) | Tandon School of Engineering | Brooklyn, NY, USA <br /> <br />
@@ -6,12 +5,12 @@ New York University (NYU) | Tandon School of Engineering | Brooklyn, NY, USA <br
 # RTES-Challenge
  Final Project for NYU Tandon EC-GY-6483
 
-### Group Members:
+## Description
 
-- Brijendra Asthana (bka2022)
-- Charlie Wu (qw2246)
-- Chengyu Zheng (cz2686)
-- Chen Yang (cy2478)
+### Group Members:
+- Bhagya Rekha Deenadayal (bd2585)
+- Yaswanth Kumar Damarla (yd3034)
+- Hemanth Sree Meka (hm3324)
 
 ### How to Use:
 
@@ -26,5 +25,6 @@ New York University (NYU) | Tandon School of Engineering | Brooklyn, NY, USA <br
 - Wait until "**Recording...**" is shown at the bottom of the screen.
 - Perform the same gesture to unlock the device.
 - Unlocking fail will light the red LED, ulocking succeed will light the green LED
-- Press the blue user button will clear everything recorded. 
->>>>>>> f04a4b8 (initial commit)
+- Press the blue user button will clear everything recorded.
+
+Feel free to contact about the project. If so, send an email to yd3034@nyu.edu! <br />
